@@ -1,0 +1,9 @@
+{
+    "require": {
+       "phpoffice/phpword": "v0.16.*",
+        "zendframework/zend-escaper": "^2.6",
+        "zendframework/zend-stdlib": "^3.2",
+        "zendframework/zend-validator": "^2.13",
+        "ncjoes/office-converter": "^1.0"
+    }
+}
